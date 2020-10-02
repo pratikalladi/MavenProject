@@ -1,0 +1,8 @@
+# Guide to Maven
+
+1. First step: install Maven
+2. Run this line of code `mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=com.first.app -DartifactId=first-maven-app`
+3. Write your code with package on top.
+4. Add some lines of code to the pom.xml [(link to full pom.xml you want)](https://github.com/aditya-sridhar/first-maven-app/blob/master/pom.xml)
+5. Put this into command line: "mvn compile"
+6. then do "mvm test" and "mvm package" and "mvm install" and "mvm clean"
