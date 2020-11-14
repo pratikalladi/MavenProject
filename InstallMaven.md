@@ -1,6 +1,6 @@
 #Install Maven
 
- 1. Go to this site[https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi) and download the the binary zip file (the one that reads "apache-maven-3.6.3-bin.zip"). 
+ 1. Go to this site [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi) and download the the binary zip file (the one that reads "apache-maven-3.6.3-bin.zip"). 
   
  2. Unzip the file to any directory on your computer.  
   
