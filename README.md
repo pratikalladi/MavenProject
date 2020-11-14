@@ -5,3 +5,4 @@
 2. [Create a JAR package of your project using Maven](google.com)
 3. [Upload the package to the central repository](google.com)
 
+Example of a pom.xml comes from: https://github.com/aditya-sridhar/first-maven-app/blob/master/pom.xml
