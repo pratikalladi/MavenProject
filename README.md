@@ -5,4 +5,4 @@
 2. [Create your maven package](CreatePackage.md)
 2. [Upload the package to the central repository](UploadPackage.md)
 
-Example of a pom.xml comes from: https://github.com/aditya-sridhar/first-maven-app/blob/master/pom.xml
+Example of a pom.xml is inspired by: https://github.com/aditya-sridhar/first-maven-app/blob/master/pom.xml
