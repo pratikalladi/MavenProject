@@ -1,3 +1,5 @@
+// This is a random class that you can use to practice packaging!
+
 public class HelloWorldFromMars {
 	
 	public static void main(String [] args) {
